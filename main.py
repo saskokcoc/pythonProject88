@@ -17,7 +17,6 @@ def divider(a, b):
        return 0
 
    except ValueError:
-
        print("Ви не можете ділити нечислові значення!")
 
        return 0
